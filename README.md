@@ -38,9 +38,9 @@ Below is the list of repositories with links and descriptions:
 - **Details:** [GitHub Repo](https://github.com/skv221/selenium-week5-framework)
 
 #### **Week 6: Page Object Model**
-- **Repository:** [selenium-week6-pom](#)
+- **Repository:** [selenium-week6-pom](https://github.com/skv221/selenium-week6-pom)
 - **Focus:** Building and utilizing the Page Object Model (POM) structure for scalable test automation.
-- **Details:** [GitHub Repo](#)
+- **Details:** [GitHub Repo](https://github.com/skv221/selenium-week6-pom)
 
 ---
 
