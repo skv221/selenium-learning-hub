@@ -1,4 +1,4 @@
-### **LearningHub: Central Repository for Selenium Learning Journey**
+## **LearningHub: Central Repository for Selenium Learning Journey**
 
 Welcome to the **LearningHub**, your one-stop destination for tracking and accessing all my Selenium learning repositories. This repository serves as a central hub, linking to various projects and tasks completed as part of my structured weekly learning journey.
 
