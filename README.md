@@ -42,6 +42,10 @@ Below is the list of repositories with links and descriptions:
 - **Focus:** Building and utilizing the Page Object Model (POM) structure for scalable test automation.
 - **Details:** [GitHub Repo](https://github.com/skv221/selenium-week6-pom)
 
+#### **Week 7: Cross Browser, Headless Testing and Cloud integration**
+- **Repository:** [selenium-week7-advanced-integration](https://github.com/skv221/selenium-week7-advanced-integration)
+- **Focus:** Ensuring Cross Browser compatibility and Headless testing along with running in multiple machines using cloud.
+- **Details:** [GitHub Repo](https://github.com/skv221/selenium-week7-advanced-integration)
 ---
 
 ### **Learning Highlights**
