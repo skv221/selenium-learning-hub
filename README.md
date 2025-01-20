@@ -46,6 +46,11 @@ Below is the list of repositories with links and descriptions:
 - **Repository:** [selenium-week7-advanced-integration](https://github.com/skv221/selenium-week7-advanced-integration)
 - **Focus:** Ensuring Cross Browser compatibility and Headless testing along with running in multiple machines using cloud.
 - **Details:** [GitHub Repo](https://github.com/skv221/selenium-week7-advanced-integration)
+
+#### **Week 8: Advanced Automation with CI/CD and Detailed Reporting**
+- **Repository:** [selenium-week8-reporting-cicd](https://github.com/skv221/selenium-week8-reporting-cicd)
+- **Focus:** Adding CI/CD functionality with advanced reporting.
+- **Details:** [GitHub Repo](https://github.com/skv221/selenium-week8-reporting-cicd)
 ---
 
 ### **Learning Highlights**
